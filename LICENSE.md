@@ -1,6 +1,5 @@
-Copyright (C) {year1}-{year2} {company name or your name} <{email}>
+Copyright (C) 2021 iceink <iceink@gmx.com>
 
-This file is part of the {project name} project.
+This file is part of the -SL-wearableClickableIncrementor project.
 
-The {project name} project can not be copied and/or distributed without the express
-permission of {company name or your name} <{email}>.
+The -SL-wearableClickableIncrementor project can not be copied and/or distributed without the express permission of iceink <iceink@gmx.com>.
