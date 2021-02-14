@@ -1,6 +1,6 @@
 //============================================================
 //
-//              {Name of Script}
+//                Wearable Clickable Incrementor
 //
 // by iceink
 // Copyright (C) 2021 iceink <iceink@gmx.com>
